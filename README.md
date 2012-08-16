@@ -22,6 +22,10 @@ Perform readmore on jQuery selection.
     * **ellipse_clzz** - The ellipsis class. Defaults to 'readm-continue'.
     * **hidden_clzz** - The hidden class for the truncated text. Defaults to 'readm-hidden'.
 
+##Demo
+
+See demo at [jtsnake.github.com/jquery-readmore](http://jtsnake.github.com/jquery-readmore/).
+
 ##Examples
 ###Using default options
 Code:
