@@ -5,8 +5,7 @@ Display on a certain number of characters of text, and trigger the display of th
 Customizable: number of characters, ellipsis text, "Read More" link, and whether displayed text splits words
 
 ##Get it
-* [jquery.readmore.js](https://raw.github.com/mike-wendt/jquery-readmore/master/readmore/jquery.readmore.js) - Latest version.
-* [jquery.readmore.min.js](https://raw.github.com/mike-wendt/jquery-readmore/master/readmore/jquery.readmore.min.js) - Latest compressed version.
+git clone git://github.com/jtsnake/jquery-readmore.git
 
 ##How to use it
 ```
