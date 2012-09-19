@@ -24,7 +24,7 @@ Perform readmore on jQuery selection.
 
 ##Demo
 
-See demo at [jtsnake.github.com/jquery-readmore](http://jtsnake.github.com/jquery-readmore/).
+See demo at [jaketrent.github.com/jquery-readmore](http://jaketrent.github.com/jquery-readmore/).
 
 ##Examples
 ###Using default options
